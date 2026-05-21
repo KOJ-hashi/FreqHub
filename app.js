@@ -11,7 +11,11 @@ fetch("data/HND.csv").then(r=>r.text())
 
 files.forEach(csv=>{
 
-let rows=csv.trim().split("\n");
+let rows=
+csv
+.replace(/\r/g,"")
+.trim()
+.split("\n");
 
 let headers=
 rows[0]
@@ -19,6 +23,8 @@ rows[0]
 .map(x=>x.trim());
 
 for(let i=1;i<rows.length;i++){
+
+if(!rows[i]) continue;
 
 let values=
 rows[i]
@@ -28,8 +34,9 @@ let obj={};
 
 headers.forEach((h,index)=>{
 
-obj[h.trim()] =
-(values[index]||"").trim();
+obj[h]=
+(values[index]||"")
+.trim();
 
 });
 
@@ -58,25 +65,34 @@ data.forEach(d=>{
 
 let text=
 
-(d.tags||"")
-+(d.name||"");
+(d.airport||"")
++(d.name||"")
++(d.tags||"");
 
 if(
-text.toUpperCase()
+
+text
+.toUpperCase()
 .includes(word)
+
 ){
 
-result +=`
+result+=`
 
 <h3>${d.name}</h3>
 
 <p>
+
 ${d.freq}
-${d.mode||""}
+${d.mode}
+
 </p>
 
 <p>
-${d.subcategory||""}
+
+${d.airport}
+${d.subcategory}
+
 </p>
 
 <hr>
@@ -88,8 +104,9 @@ ${d.subcategory||""}
 });
 
 document
-.getElementById("result")
-.innerHTML=
+.getElementById(
+"result"
+).innerHTML=
 
 result||"見つかりません";
 
