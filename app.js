@@ -2,11 +2,8 @@ let data=[];
 
 Promise.all([
 
-fetch("data/KOJ.csv")
-.then(r=>r.text()),
-
-fetch("data/HND.csv")
-.then(r=>r.text())
+fetch("data/KOJ.csv").then(r=>r.text()),
+fetch("data/HND.csv").then(r=>r.text())
 
 ])
 
@@ -14,42 +11,37 @@ fetch("data/HND.csv")
 
 files.forEach(csv=>{
 
-let rows=csv.split("\n");
+let rows=csv.trim().split("\n");
 
-rows.shift();
+let headers=
+rows[0]
+.split(",")
+.map(x=>x.trim());
 
-rows.forEach(row=>{
+for(let i=1;i<rows.length;i++){
 
-if(!row.trim()) return;
+let values=
+rows[i]
+.split(",");
 
-let c=row.split(",");
+let obj={};
 
-data.push({
+headers.forEach((h,index)=>{
 
-name:c[0] || "",
-
-freq:c[1] || "",
-
-category:c[2] || "",
-
-subcategory:c[3] || "",
-
-mode:c[4] || "",
-
-region:c[5] || "",
-
-tags:c[6] || ""
+obj[h.trim()] =
+(values[index]||"").trim();
 
 });
 
-});
+data.push(obj);
+
+}
 
 });
 
 console.log(data);
 
 });
-
 
 function searchFreq(){
 
@@ -64,41 +56,28 @@ let result="";
 
 data.forEach(d=>{
 
+let text=
+
+(d.tags||"")
++(d.name||"");
+
 if(
-
-d.tags
-.toUpperCase()
+text.toUpperCase()
 .includes(word)
-
-||
-
-d.name
-.toUpperCase()
-.includes(word)
-
 ){
 
 result +=`
 
-<div>
-
 <h3>${d.name}</h3>
 
 <p>
-
 ${d.freq}
-
-${d.mode}
-
+${d.mode||""}
 </p>
 
-<small>
-
-${d.subcategory}
-
-</small>
-
-</div>
+<p>
+${d.subcategory||""}
+</p>
 
 <hr>
 
@@ -108,14 +87,10 @@ ${d.subcategory}
 
 });
 
-if(result===""){
-
-result="見つかりません";
-
-}
-
 document
 .getElementById("result")
-.innerHTML=result;
+.innerHTML=
+
+result||"見つかりません";
 
 }
