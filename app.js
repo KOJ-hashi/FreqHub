@@ -53,46 +53,37 @@ console.log(data);
 function searchFreq(){
 
 let word=
-
 document
 .getElementById("search")
 .value
-.toUpperCase();
+.toUpperCase()
+.trim();
 
 let result="";
 
 data.forEach(d=>{
 
-let text=
+let text = `
+${d.airport||""}
+${d.name||""}
+${d.tags||""}
+${d.region||""}
+`
+.toUpperCase();
 
-(d.airport||"")
-+(d.name||"")
-+(d.tags||"");
+if(text.includes(word)){
 
-if(
-
-text
-.toUpperCase()
-.includes(word)
-
-){
-
-result+=`
+result +=`
 
 <h3>${d.name}</h3>
 
 <p>
-
-${d.freq}
-${d.mode}
-
+${d.freq} ${d.mode}
 </p>
 
 <p>
-
 ${d.airport}
 ${d.subcategory}
-
 </p>
 
 <hr>
@@ -104,9 +95,8 @@ ${d.subcategory}
 });
 
 document
-.getElementById(
-"result"
-).innerHTML=
+.getElementById("result")
+.innerHTML=
 
 result||"見つかりません";
 
