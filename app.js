@@ -1,42 +1,54 @@
-const data=[
+let data=[];
 
-{
+Promise.all([
 
-name:"鹿児島TWR01",
+fetch("data/KOJ.csv")
+.then(r=>r.text()),
 
-freq:"118.2",
+fetch("data/HND.csv")
+.then(r=>r.text())
 
-mode:"AM",
+])
 
-tags:"鹿児島 KOJ RJFK"
+.then(files=>{
 
-},
+files.forEach(csv=>{
 
-{
+let rows=csv.split("\n");
 
-name:"鹿児島APP01",
+rows.shift();
 
-freq:"126.0",
+rows.forEach(row=>{
 
-mode:"AM",
+if(!row.trim()) return;
 
-tags:"鹿児島 KOJ RJFK"
+let c=row.split(",");
 
-},
+data.push({
 
-{
+name:c[0] || "",
 
-name:"羽田TWR01",
+freq:c[1] || "",
 
-freq:"118.1",
+category:c[2] || "",
 
-mode:"AM",
+subcategory:c[3] || "",
 
-tags:"羽田 HND RJTT"
+mode:c[4] || "",
 
-}
+region:c[5] || "",
 
-];
+tags:c[6] || ""
+
+});
+
+});
+
+});
+
+console.log(data);
+
+});
 
 
 function searchFreq(){
@@ -44,9 +56,7 @@ function searchFreq(){
 let word=
 
 document
-.getElementById(
-"search"
-)
+.getElementById("search")
 .value
 .toUpperCase();
 
@@ -68,9 +78,8 @@ d.name
 
 ){
 
-result +=
+result +=`
 
-`
 <div>
 
 <h3>${d.name}</h3>
@@ -82,6 +91,12 @@ ${d.freq}
 ${d.mode}
 
 </p>
+
+<small>
+
+${d.subcategory}
+
+</small>
 
 </div>
 
@@ -100,10 +115,7 @@ result="見つかりません";
 }
 
 document
-.getElementById(
-"result"
-)
-
+.getElementById("result")
 .innerHTML=result;
 
 }
