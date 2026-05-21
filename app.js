@@ -1,9 +1,27 @@
 let data=[];
 
+async function loadCSV(file){
+
+const response =
+await fetch(file);
+
+const buffer =
+await response.arrayBuffer();
+
+const decoder =
+new TextDecoder("utf-8");
+
+const text =
+decoder.decode(buffer);
+
+return text;
+
+}
+
 Promise.all([
 
-fetch("data/KOJ.csv").then(r=>r.text()),
-fetch("data/HND.csv").then(r=>r.text())
+loadCSV("data/KOJ.csv"),
+loadCSV("data/HND.csv")
 
 ])
 
@@ -27,8 +45,7 @@ for(let i=1;i<rows.length;i++){
 if(!rows[i]) continue;
 
 let values=
-rows[i]
-.split(",");
+rows[i].split(",");
 
 let obj={};
 
@@ -46,9 +63,6 @@ data.push(obj);
 
 });
 
-console.log(data);
-console.log(data[0]);
-
 });
 
 function searchFreq(){
@@ -57,34 +71,35 @@ let word=
 document
 .getElementById("search")
 .value
-.toUpperCase()
-.trim();
+.toUpperCase();
 
 let result="";
 
 data.forEach(d=>{
 
-let text = `
-${d.airport||""}
-${d.name||""}
-${d.tags||""}
-${d.region||""}
-`
+let text=
+Object.values(d)
+.join(" ")
 .toUpperCase();
 
 if(text.includes(word)){
 
-result +=`
+result += `
 
 <h3>${d.name}</h3>
 
 <p>
-${d.freq} ${d.mode}
+
+${d.freq}
+${d.mode}
+
 </p>
 
 <p>
+
 ${d.airport}
 ${d.subcategory}
+
 </p>
 
 <hr>
@@ -96,8 +111,9 @@ ${d.subcategory}
 });
 
 document
-.getElementById("result")
-.innerHTML=
+.getElementById(
+"result"
+).innerHTML=
 
 result||"見つかりません";
 
