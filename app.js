@@ -116,15 +116,40 @@ async function search(){
 }
 
 
-function createCard(
-    category,
-    item
-){
+function createCard(category,item){
 
+    // AIR
+    if(category==="airport"){
+
+        return `
+        <div class="card">
+
+        <h3>${item[0]}</h3>
+
+        <p>
+        周波数:
+        ${item[1]} MHz
+        </p>
+
+        <p>
+        空港:
+        ${item[2]}
+        </p>
+
+        <p>
+        種別:
+        ${item[3]}
+        </p>
+
+        </div>
+        `;
+    }
+
+
+    // RADIO
     if(category==="radio"){
 
-        return`
-
+        return `
         <div class="card">
 
         <h3>${item[0]}</h3>
@@ -145,11 +170,6 @@ function createCard(
         </p>
 
         <p>
-        種別:
-        ${item[4]}
-        </p>
-
-        <p>
         コールサイン:
         ${item[5]}
         </p>
@@ -160,44 +180,14 @@ function createCard(
         </p>
 
         </div>
-
         `;
     }
 
 
-    if(category==="airport"){
-
-        return`
-
-        <div class="card">
-
-        <h3>${item[0]}</h3>
-
-        <p>
-        周波数:
-        ${item[1]}
-        </p>
-
-        <p>
-        空港:
-        ${item[2]}
-        </p>
-
-        <p>
-        種別:
-        ${item[3]}
-        </p>
-
-        </div>
-
-        `;
-    }
-
-
+    // RAIL
     if(category==="rail"){
 
-        return`
-
+        return `
         <div class="card">
 
         <h3>${item[0]}</h3>
@@ -213,14 +203,10 @@ function createCard(
         </p>
 
         </div>
-
         `;
     }
 
-    return "";
-
 }
-
 
 // Enterでも検索
 document
