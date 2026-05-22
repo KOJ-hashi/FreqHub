@@ -121,31 +121,31 @@ async function search(){
 function createCard(category,item){
 
     // AIR
-    if(category==="airport"){
+   if(category==="airport"){
 
-        return `
-        <div class="card">
+return `
+<div class="card">
 
-        <h3>${item[0]}</h3>
+<h3>${item[0]}</h3>
 
-        <p>
-        周波数:
-        ${item[1]} MHz
-        </p>
+<p>
+周波数:
+${item[1]} MHz
+</p>
 
-        <p>
-        空港:
-        ${item[2]}
-        </p>
+<p>
+名称:
+${item[2]}
+</p>
 
-        <p>
-        種別:
-        ${item[3]}
-        </p>
+<p>
+種別:
+${item[3]}
+</p>
 
-        </div>
-        `;
-    }
+</div>
+`;
+}
 
 
     // RADIO
