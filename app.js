@@ -2,28 +2,34 @@
 // FreqHub script.js
 // ======================
 
-const result = document.getElementById("result");
-
 async function loadCategory(category){
 
     try{
 
-        // data/lists/airport.json 等を読む
         const list = await fetch(
             `data/lists/${category}.json`
         ).then(r=>r.json());
 
-        // 複数CSVを全部読む
         const datas = await Promise.all(
 
-            list.map(name=>
+            list.map(async(name)=>{
 
-                fetch(
+                const text=
+                await fetch(
                     `data/${category}/${name}.csv`
                 )
-                .then(r=>r.text())
+                .then(r=>r.text());
 
-            )
+                const lines=text
+                .split("\n");
+
+                // 最初のCSV以外はヘッダー削除
+                return lines
+                    .slice(1)
+                    .join("\n");
+
+            })
+
         );
 
         return datas.join("\n");
@@ -32,17 +38,13 @@ async function loadCategory(category){
 
     catch(err){
 
-        console.error(
-            "読み込みエラー:",
-            err
-        );
+        console.log(err);
 
         return "";
 
     }
 
 }
-
 async function search(){
 
     result.innerHTML =
