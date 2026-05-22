@@ -1,23 +1,171 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FreqHub</title>
+
+<style>
+body{
+    font-family:Arial,sans-serif;
+    margin:20px;
+    background:#f5f5f5;
+}
+
+h1{
+    text-align:center;
+}
+
+.top{
+    display:flex;
+    gap:10px;
+    margin-bottom:20px;
+}
+
+select,input,button{
+    padding:10px;
+    border-radius:8px;
+    border:1px solid #ccc;
+}
+
+input{
+    flex:1;
+}
+
+.card{
+    background:white;
+    padding:15px;
+    margin-bottom:10px;
+    border-radius:12px;
+    box-shadow:0 2px 6px rgba(0,0,0,0.15);
+}
+</style>
+
+</head>
 <body>
 
-<h1>周波数検索</h1>
+<h1>FreqHub</h1>
+
+<div class="top">
+
+<select id="categorySelect">
+    <option value="airport">AIR</option>
+    <option value="radio">RADIO</option>
+    <option value="rail">RAIL</option>
+</select>
 
 <input
-id="search"
-placeholder="KOJ / HND">
+id="searchBox"
+type="text"
+placeholder="空港名、周波数、タグ..."
+>
 
-<button onclick="searchFreq()">
-
+<button onclick="search()">
 検索
-
 </button>
-
-<div id="result">
-
-ここに結果
 
 </div>
 
-<script src="app.js"></script>
+<div id="result"></div>
+
+<script>
+
+async function loadCategory(category){
+
+    const list=await fetch(
+        `data/lists/${category}.json`
+    )
+    .then(r=>r.json());
+
+    const datas=await Promise.all(
+
+        list.map(name=>
+
+            fetch(
+                `data/${category}/${name}.csv`
+            )
+            .then(r=>r.text())
+
+        )
+    );
+
+    return datas.join("\n");
+}
+
+
+async function search(){
+
+    const keyword=
+    document
+    .getElementById("searchBox")
+    .value
+    .toLowerCase();
+
+    const category=
+    document
+    .getElementById("categorySelect")
+    .value;
+
+    const csv=
+    await loadCategory(category);
+
+    const lines=
+    csv
+    .split("\n")
+    .filter(
+        line=>line.trim()!=""
+    );
+
+    let html="";
+
+    for(let line of lines){
+
+        if(line.startsWith("name"))
+            continue;
+
+        const item=line.split(",");
+
+        const joined=
+        item
+        .join(" ")
+        .toLowerCase();
+
+        if(joined.includes(keyword)){
+
+            html+=`
+            <div class="card">
+
+            <h3>${item[0]}</h3>
+
+            <p>
+            周波数:
+            ${item[1]}
+            </p>
+
+            ${item[5]?
+            `<p>コールサイン:${item[5]}</p>`
+            :""}
+
+            ${item[6]?
+            `<p>系列:${item[6]}</p>`
+            :""}
+
+            ${item[3]?
+            `<p>地域:${item[3]}</p>`
+            :""}
+
+            </div>
+            `;
+        }
+    }
+
+document
+.getElementById("result")
+.innerHTML=html;
+
+}
+
+</script>
 
 </body>
+</html>
