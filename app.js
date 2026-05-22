@@ -1,120 +1,250 @@
-let data=[];
+// ======================
+// FreqHub script.js
+// ======================
 
-async function loadCSV(file){
+const result = document.getElementById("result");
 
-const response =
-await fetch(file);
+async function loadCategory(category){
 
-const buffer =
-await response.arrayBuffer();
+    try{
 
-const decoder =
-new TextDecoder("utf-8");
+        // data/lists/airport.json 等を読む
+        const list = await fetch(
+            `data/lists/${category}.json`
+        ).then(r=>r.json());
 
-const text =
-decoder.decode(buffer);
+        // 複数CSVを全部読む
+        const datas = await Promise.all(
 
-return text;
+            list.map(name=>
 
-}
+                fetch(
+                    `data/${category}/${name}.csv`
+                )
+                .then(r=>r.text())
 
-Promise.all([
+            )
+        );
 
-loadCSV("data/KOJ.csv"),
-loadCSV("data/HND.csv")
+        return datas.join("\n");
 
-])
+    }
 
-.then(files=>{
+    catch(err){
 
-files.forEach(csv=>{
+        console.error(
+            "読み込みエラー:",
+            err
+        );
 
-let rows=
-csv
-.replace(/\r/g,"")
-.trim()
-.split("\n");
+        return "";
 
-let headers=
-rows[0]
-.split(",")
-.map(x=>x.trim());
-
-for(let i=1;i<rows.length;i++){
-
-if(!rows[i]) continue;
-
-let values=
-rows[i].split(",");
-
-let obj={};
-
-headers.forEach((h,index)=>{
-
-obj[h]=
-(values[index]||"")
-.trim();
-
-});
-
-data.push(obj);
+    }
 
 }
 
-});
+async function search(){
 
-});
+    result.innerHTML =
+    "<p>検索中...</p>";
 
-function searchFreq(){
+    const keyword =
+    document
+    .getElementById("searchBox")
+    .value
+    .toLowerCase()
+    .trim();
 
-let word=
-document
-.getElementById("search")
-.value
-.toUpperCase();
+    const category =
+    document
+    .getElementById("categorySelect")
+    .value;
 
-let result="";
+    const csv =
+    await loadCategory(category);
 
-data.forEach(d=>{
+    const lines =
+    csv
+    .split("\n")
+    .filter(
+        line=>line.trim()!=""
+    );
 
-let text=
-Object.values(d)
-.join(" ")
-.toUpperCase();
+    let html="";
 
-if(text.includes(word)){
+    for(let line of lines){
 
-result += `
+        // ヘッダー行飛ばし
+        if(
+            line.startsWith("name")
+        )
+        continue;
 
-<h3>${d.name}</h3>
+        const item =
+        line.split(",");
 
-<p>
+        const joined =
+        item
+        .join(" ")
+        .toLowerCase();
 
-${d.freq}
-${d.mode}
+        if(
+            joined.includes(keyword)
+        ){
 
-</p>
+            html += createCard(
+                category,
+                item
+            );
 
-<p>
+        }
 
-${d.airport}
-${d.subcategory}
+    }
 
-</p>
+    if(html===""){
 
-<hr>
+        html=`
+        <div class="card">
+        データなし
+        </div>
+        `;
 
-`;
+    }
+
+    result.innerHTML=html;
 
 }
 
-});
 
+function createCard(
+    category,
+    item
+){
+
+    if(category==="radio"){
+
+        return`
+
+        <div class="card">
+
+        <h3>${item[0]}</h3>
+
+        <p>
+        周波数:
+        ${item[1]}
+        </p>
+
+        <p>
+        バンド:
+        ${item[2]}
+        </p>
+
+        <p>
+        地域:
+        ${item[3]}
+        </p>
+
+        <p>
+        種別:
+        ${item[4]}
+        </p>
+
+        <p>
+        コールサイン:
+        ${item[5]}
+        </p>
+
+        <p>
+        系列:
+        ${item[6]}
+        </p>
+
+        </div>
+
+        `;
+    }
+
+
+    if(category==="airport"){
+
+        return`
+
+        <div class="card">
+
+        <h3>${item[0]}</h3>
+
+        <p>
+        周波数:
+        ${item[1]}
+        </p>
+
+        <p>
+        空港:
+        ${item[2]}
+        </p>
+
+        <p>
+        種別:
+        ${item[3]}
+        </p>
+
+        </div>
+
+        `;
+    }
+
+
+    if(category==="rail"){
+
+        return`
+
+        <div class="card">
+
+        <h3>${item[0]}</h3>
+
+        <p>
+        周波数:
+        ${item[1]}
+        </p>
+
+        <p>
+        会社:
+        ${item[2]}
+        </p>
+
+        </div>
+
+        `;
+    }
+
+    return "";
+
+}
+
+
+// Enterでも検索
 document
 .getElementById(
-"result"
-).innerHTML=
+"searchBox"
+)
+.addEventListener(
+"keypress",
+function(e){
 
-result||"見つかりません";
+if(e.key==="Enter"){
+
+search();
 
 }
+
+}
+);
+
+
+// 起動時空表示
+result.innerHTML=
+`
+<div class="card">
+上の欄から検索
+</div>
+`;
