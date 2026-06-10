@@ -1,27 +1,28 @@
 ﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
-釧路TWR01,118.05,KUH/RJCK,AIR,TWR,AM,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-釧路TWR02,126.2,KUH/RJCK,AIR,TWR,AM,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-日高APP01,128.325,KUH/RJCK,AIR,APP,AM,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-日高APP02,246.1,KUH/RJCK,AIR,APP,AM,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-日高APP03,134.55,KUH/RJCK,AIR,APP,AM,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-ANA/ADO/APJ,129.1,KUH/RJCK,AIR,company,AM,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-JAL/NTH,130.1,KUH/RJCK,AIR,company,AM,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-中日本航空,130.5,KUH/RJCK,AIR,company,AM,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-海上保安庁01,130.3,KUH/RJCK,AIR,company,AM,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-海上保安庁02,134.5,KUH/RJCK,AIR,company,AM,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-ANA,149.53,KUH/RJCK,AIR,grand,FM,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-北海道エアポート01,149.45,KUH/RJCK,AIR,grand,FM,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-北海道エアポート02,153.45,KUH/RJCK,AIR,grand,FM,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-北海道エアポート03,154.29,KUH/RJCK,AIR,grand,FM,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-北海道エアポート04,3R 3T,KUH/RJCK,AIR,grand,,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-航空局,153.45,KUH/RJCK,AIR,grand,FM,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-気象庁01,153.45,KUH/RJCK,AIR,grand,FM,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-気象庁02,154.29,KUH/RJCK,AIR,grand,FM,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-KAFCO,414.6,KUH/RJCK,AIR,grand,FM,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-釧路空港ビル,3R,KUH/RJCK,AIR,grand,,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-VOR,111.0MHz,KUH/RJCK,AIR,ILS,,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-DME,1008MHz,KUH/RJCK,AIR,ILS,,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-ILS-LOC 17,108.9MHz,KUH/RJCK,AIR,ILS,,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-ILS-GP 17,329.3MHz,KUH/RJCK,AIR,ILS,,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-ILS-DME 17,987MHz,KUH/RJCK,AIR,ILS,,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
-MSAS,1575.42MHz,KUH/RJCK,AIR,ILS,,釧路,"北海道,釧路,たんちょう釧路,KUH.RJCK",,43.0459,144.1941
+帯広TWR01,118.7,OBO/RJCB,AIR,TWR,AM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+帯広TWR02,126.2,OBO/RJCB,AIR,TWR,AM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+帯広TWR03,123.6,OBO/RJCB,AIR,TWR,AM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+日高APP01,128.325,OBO/RJCB,AIR,APP,AM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+日高APP02,246.1,OBO/RJCB,AIR,APP,AM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+日高APP03,134.55,OBO/RJCB,AIR,APP,AM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+JAL/HAC/FDA,130.1,OBO/RJCB,AIR,company,AM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+ADO,123.675,OBO/RJCB,AIR,company,AM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+航空大学,123.4,OBO/RJCB,AIR,company,AM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+府中エアサービス,129.45,OBO/RJCB,AIR,company,AM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+北海道警察航空隊,135.95,OBO/RJCB,AIR,company,AM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+ADO,462.05,OBO/RJCB,AIR,grand,FM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+北海道エアポート01,149.45,OBO/RJCB,AIR,grand,FM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+北海道エアポート02,153.45,OBO/RJCB,AIR,grand,FM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+北海道エアポート03,154.29,OBO/RJCB,AIR,grand,FM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+北海道エアポート04,157.61,OBO/RJCB,AIR,grand,FM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+北海道エアポート05,3R 3T,OBO/RJCB,AIR,grand,FM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+航空局,153.45,OBO/RJCB,AIR,grand,FM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+気象庁01,153.45,OBO/RJCB,AIR,grand,FM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+気象庁02,154.29,OBO/RJCB,AIR,grand,FM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+航空大学,158.69,OBO/RJCB,AIR,grand,FM,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+VOR,109.65MHz,OBO/RJCB,AIR,ILS,,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+DME,1120MHz,OBO/RJCB,AIR,ILS,,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+ILS-LOC 35,111.7MHz,OBO/RJCB,AIR,ILS,,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+ILS-GP 35,333.5MHz,OBO/RJCB,AIR,ILS,,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+ILS-DME 345,1015MHz,OBO/RJCB,AIR,ILS,,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
+MSAS,1575.42MHz,OBO/RJCB,AIR,ILS,,帯広,"OBO,RJCB,北海道,帯広空港,とかち帯広空港,北海道",,42.7312,143.2155
