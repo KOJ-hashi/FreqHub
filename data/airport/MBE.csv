@@ -1,0 +1,14 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+RDO,118.1500,MBE/RJEB,AIR,RDO,AM,紋別,"MBE,RJEB,紋別,オホーツク紋別空港,北海道",,44.3028,143.4042
+東京CON01,127.5000,MBE/RJEB,AIR,CON,AM,紋別,"MBE,RJEB,紋別,オホーツク紋別空港,北海道",,44.3028,143.4042
+東京CON02,255.2000,MBE/RJEB,AIR,CON,AM,紋別,"MBE,RJEB,紋別,オホーツク紋別空港,北海道",,44.3028,143.4042
+東京CON03,134.2500,MBE/RJEB,AIR,CON,AM,紋別,"MBE,RJEB,紋別,オホーツク紋別空港,北海道",,44.3028,143.4042
+東京CON04,260.4000,MBE/RJEB,AIR,CON,AM,紋別,"MBE,RJEB,紋別,オホーツク紋別空港,北海道",,44.3028,143.4042
+ANA,129.8500,MBE/RJEB,AIR,company,AM,紋別,"MBE,RJEB,紋別,オホーツク紋別空港,北海道",,44.3028,143.4042
+ANA,149.5300,MBE/RJEB,AIR,grand,FM,紋別,"MBE,RJEB,紋別,オホーツク紋別空港,北海道",,44.3028,143.4042
+気象庁,154.2900,MBE/RJEB,AIR,grand,FM,紋別,"MBE,RJEB,紋別,オホーツク紋別空港,北海道",,44.3028,143.4042
+VOR,112.9MHz,MBE/RJEB,AIR,ILS,,紋別,"MBE,RJEB,紋別,オホーツク紋別空港,北海道",,44.3028,143.4042
+DME,1163MHz,MBE/RJEB,AIR,ILS,,紋別,"MBE,RJEB,紋別,オホーツク紋別空港,北海道",,44.3028,143.4042
+ILS-LOC 32,111.55MHz,MBE/RJEB,AIR,ILS,,紋別,"MBE,RJEB,紋別,オホーツク紋別空港,北海道",,44.3028,143.4042
+ILS-GP 32,332.75MHz,MBE/RJEB,AIR,ILS,,紋別,"MBE,RJEB,紋別,オホーツク紋別空港,北海道",,44.3028,143.4042
+ILS-DME 32,1139MHz,MBE/RJEB,AIR,ILS,,紋別,"MBE,RJEB,紋別,オホーツク紋別空港,北海道",,44.3028,143.4042
