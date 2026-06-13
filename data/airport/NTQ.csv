@@ -1,0 +1,19 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+RDO,118.0500,NTQ/RJNW,AIR,RDO,AM,能登,"NTQ,RJNW,能登,のと里山,中部,石川",,37.295,136.9577
+神戸CON01,132.4500,NTQ/RJNW,AIR,CON,AM,能登,"NTQ,RJNW,能登,のと里山,中部,石川",,37.295,136.9577
+神戸CON02,125.6000,NTQ/RJNW,AIR,CON,AM,能登,"NTQ,RJNW,能登,のと里山,中部,石川",,37.295,136.9577
+神戸CON03,304.4000,NTQ/RJNW,AIR,CON,AM,能登,"NTQ,RJNW,能登,のと里山,中部,石川",,37.295,136.9577
+神戸CON04,317.1000,NTQ/RJNW,AIR,CON,AM,能登,"NTQ,RJNW,能登,のと里山,中部,石川",,37.295,136.9577
+ANA,130.4500,NTQ/RJNW,AIR,company,AM,能登,"NTQ,RJNW,能登,のと里山,中部,石川",,37.295,136.9577
+日本航空学園,122.9000,NTQ/RJNW,AIR,company,AM,能登,"NTQ,RJNW,能登,のと里山,中部,石川",,37.295,136.9577
+ANA,149.5300,NTQ/RJNW,AIR,grand,FM,能登,"NTQ,RJNW,能登,のと里山,中部,石川",,37.295,136.9577
+能登空港管理事務所,154.2100,NTQ/RJNW,AIR,grand,FM,能登,"NTQ,RJNW,能登,のと里山,中部,石川",,37.295,136.9577
+日本航空学園01,154.2100,NTQ/RJNW,AIR,grand,FM,能登,"NTQ,RJNW,能登,のと里山,中部,石川",,37.295,136.9577
+日本航空学園02,3R,NTQ/RJNW,AIR,grand,FM,能登,"NTQ,RJNW,能登,のと里山,中部,石川",,37.295,136.9577
+航空局/気象庁,153.4500,NTQ/RJNW,AIR,grand,FM,能登,"NTQ,RJNW,能登,のと里山,中部,石川",,37.295,136.9577
+VOR,111.45MHz,NTQ/RJNW,AIR,ILS,,能登,"NTQ,RJNW,能登,のと里山,中部,石川",,37.295,136.9577
+DME,1138MHz,NTQ/RJNW,AIR,ILS,,能登,"NTQ,RJNW,能登,のと里山,中部,石川",,37.295,136.9577
+ILS-LOC 25,108.95MHz,NTQ/RJNW,AIR,ILS,,能登,"NTQ,RJNW,能登,のと里山,中部,石川",,37.295,136.9577
+ILS-GP 25,329.15MHz,NTQ/RJNW,AIR,ILS,,能登,"NTQ,RJNW,能登,のと里山,中部,石川",,37.295,136.9577
+ILS-DME 25,1113MHz,NTQ/RJNW,AIR,ILS,,能登,"NTQ,RJNW,能登,のと里山,中部,石川",,37.295,136.9577
+MSAS,1575.42MHz,NTQ/RJNW,AIR,ILS,,能登,"NTQ,RJNW,能登,のと里山,中部,石川",,37.295,136.9577

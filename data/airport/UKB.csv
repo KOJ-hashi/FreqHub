@@ -1,0 +1,35 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+神戸TWR01,118.5000,UKB/RJBE,AIR,TWR,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+神戸TWR02,126.2000,UKB/RJBE,AIR,TWR,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+関西RDR01,121.1500,UKB/RJBE,AIR,RDR,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+関西RDR02,120.8500,UKB/RJBE,AIR,RDR,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+関西RDR03,125.5000,UKB/RJBE,AIR,RDR,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+関西RDR04,261.2000,UKB/RJBE,AIR,RDR,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+関西TCA01,121.1000,UKB/RJBE,AIR,TCA,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+関西TCA02,125.3000,UKB/RJBE,AIR,TCA,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+関西TCA02,270.8000,UKB/RJBE,AIR,TCA,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+関西GND,122.0750,UKB/RJBE,AIR,GND,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+ATIS,128.0750,UKB/RJBE,AIR,ATIS,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+ANA/ADO/SNJ/SFJ,129.8500,UKB/RJBE,AIR,company,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+SKY,123.6750,UKB/RJBE,AIR,company,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+FDA,122.4250,UKB/RJBE,AIR,company,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+フジビジネスジェット,122.4250,UKB/RJBE,AIR,company,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+ヒラタフライトサービス,129.8000,UKB/RJBE,AIR,company,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+エアバス・ヘリコプター図,122.4000,UKB/RJBE,AIR,company,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+トキエア,123.5000,UKB/RJBE,AIR,company,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+神戸市消防局航空機動隊,129.7500,UKB/RJBE,AIR,company,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+兵庫県消防防災航空隊01,131.9250,UKB/RJBE,AIR,company,AM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+兵庫県消防防災航空隊02,399.6500,UKB/RJBE,AIR,company,FM,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+ANA,373.7500,UKB/RJBE,AIR,grand,,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+FDA(SAS),3R,UKB/RJBE,AIR,grand,,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+関西エアポート神戸01,157.9300,UKB/RJBE,AIR,grand,,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+関西エアポート神戸02,3B 3R,UKB/RJBE,AIR,grand,,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+関西エアポート神戸/航空局,153.4500,UKB/RJBE,AIR,grand,,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+国際航空旅客サービス,3R,UKB/RJBE,AIR,grand,,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+セノン,3B,UKB/RJBE,AIR,grand,,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+VOR,111.25MHz,UKB/RJBE,AIR,ILS,,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+DME,1136MHz,UKB/RJBE,AIR,ILS,,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+ILS-LOC 09,109.15MHz,UKB/RJBE,AIR,ILS,,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+ILS-GP 09,331.25MHz,UKB/RJBE,AIR,ILS,,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+ILS-DME 09,1115MHz,UKB/RJBE,AIR,ILS,,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238
+MSAS,1575.42MHz,UKB/RJBE,AIR,ILS,,神戸,"UKB,RJBE,神戸,マリンエア,大阪,兵庫,関西",,34.6327,135.2238

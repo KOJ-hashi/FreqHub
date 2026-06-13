@@ -1,0 +1,19 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+RDO,118.6000,OIM/RJTO,AIR,RDO,AM,大島,"OIM.RJTO,大島,東京大島カメリア,東京,関東",,34.7819,139.3603
+東京CON01,133.7000,OIM/RJTO,AIR,CON,AM,大島,"OIM.RJTO,大島,東京大島カメリア,東京,関東",,34.7819,139.3603
+東京CON02,133.3500,OIM/RJTO,AIR,CON,AM,大島,"OIM.RJTO,大島,東京大島カメリア,東京,関東",,34.7819,139.3603
+東京CON03,309.4000,OIM/RJTO,AIR,CON,AM,大島,"OIM.RJTO,大島,東京大島カメリア,東京,関東",,34.7819,139.3603
+東京CON04,312.0000,OIM/RJTO,AIR,CON,AM,大島,"OIM.RJTO,大島,東京大島カメリア,東京,関東",,34.7819,139.3603
+東京RDR01,124.0000,OIM/RJTO,AIR,RDR,AM,大島,"OIM.RJTO,大島,東京大島カメリア,東京,関東",,34.7819,139.3603
+東京RDR02,119.1000,OIM/RJTO,AIR,RDR,AM,大島,"OIM.RJTO,大島,東京大島カメリア,東京,関東",,34.7819,139.3603
+東京RDR03,295.9000,OIM/RJTO,AIR,RDR,AM,大島,"OIM.RJTO,大島,東京大島カメリア,東京,関東",,34.7819,139.3603
+東京RDR04,232.2000,OIM/RJTO,AIR,RDR,AM,大島,"OIM.RJTO,大島,東京大島カメリア,東京,関東",,34.7819,139.3603
+ANA,129.1000,OIM/RJTO,AIR,conpany,AM,大島,"OIM.RJTO,大島,東京大島カメリア,東京,関東",,34.7819,139.3603
+新中央お航空,129.3000,OIM/RJTO,AIR,conpany,AM,大島,"OIM.RJTO,大島,東京大島カメリア,東京,関東",,34.7819,139.3603
+東邦航空,129.2500,OIM/RJTO,AIR,conpany,AM,大島,"OIM.RJTO,大島,東京大島カメリア,東京,関東",,34.7819,139.3603
+大島空港管理事務所,153.4500,OIM/RJTO,AIR,grand,FM,大島,"OIM.RJTO,大島,東京大島カメリア,東京,関東",,34.7819,139.3603
+VOR,109.85MHz,OIM/RJTO,AIR,ILS,,大島,"OIM.RJTO,大島,東京大島カメリア,東京,関東",,34.7819,139.3603
+DME,1122MHz,OIM/RJTO,AIR,ILS,,大島,"OIM.RJTO,大島,東京大島カメリア,東京,関東",,34.7819,139.3603
+LOC 03,109.35MHz,OIM/RJTO,AIR,ILS,,大島,"OIM.RJTO,大島,東京大島カメリア,東京,関東",,34.7819,139.3603
+LOC-DME03,1117MHz,OIM/RJTO,AIR,ILS,,大島,"OIM.RJTO,大島,東京大島カメリア,東京,関東",,34.7819,139.3603
+MSAS,1575.42MHz,OIM/RJTO,AIR,ILS,,大島,"OIM.RJTO,大島,東京大島カメリア,東京,関東",,34.7819,139.3603

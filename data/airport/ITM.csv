@@ -1,0 +1,40 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+大阪TWR01,118.1000,ITM/RJOO,AIR,TWR,AM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+大阪TWR02,126.2000,ITM/RJOO,AIR,TWR,AM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+大阪TWR03,236.8000,ITM/RJOO,AIR,TWR,AM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+関西APP01,120.4500,ITM/RJOO,AIR,APP,AM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+関西APP02,124.7000,ITM/RJOO,AIR,APP,AM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+関西APP03,261.2000,ITM/RJOO,AIR,APP,AM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+関西DEP,119.5000,ITM/RJOO,AIR,DEP,AM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+大阪GND01,121.7000,ITM/RJOO,AIR,GND01,AM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+大阪GND02,126.2000,ITM/RJOO,AIR,GND02,AM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+大阪CLR,118.8000,ITM/RJOO,AIR,CLR,AM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+ATIS,128.6000,ITM/RJOO,AIR,AITS,AM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+兵庫県警察航空隊,135.9500,ITM/RJOO,AIR,company,AM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+ANA/IBX/SFJ/SNJ/ADO/APJ/ORC,130.4500,ITM/RJOO,AIR,company,AM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+JAL/AHX,131.8500,ITM/RJOO,AIR,company,AM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+日本空港無線サービス01,130.9500,ITM/RJOO,AIR,company,AM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+日本空港無線サービス02,131.0500,ITM/RJOO,AIR,company,AM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+ANA,3B,ITM/RJOO,AIR,grand,,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+JAL01,372.4500,ITM/RJOO,AIR,grand,FM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+JAL02,462.0250,ITM/RJOO,AIR,grand,FM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+JAL03,469.3625,ITM/RJOO,AIR,grand,FM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+JAL04,3B,ITM/RJOO,AIR,grand,,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+IBX,3B,ITM/RJOO,AIR,grand,,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+国際空港旅客サービス,3R,ITM/RJOO,AIR,grand,,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+KSP,3B,ITM/RJOO,AIR,grand,,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+エージーピー,158.8100,ITM/RJOO,AIR,grand,FM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+朝日エアポートサービス,3A,ITM/RJOO,AIR,grand,,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+TBKエアポートグランドサービス,3B,ITM/RJOO,AIR,grand,,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+EAS,3B,ITM/RJOO,AIR,grand,,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+関西エアポート01,149.4500,ITM/RJOO,AIR,grand,FM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+関西エアポート02,157.9300,ITM/RJOO,AIR,grand,FM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+関西エアポート03,414.6000,ITM/RJOO,AIR,grand,FM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+関西エアポート04,3B,ITM/RJOO,AIR,grand,,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+航空局/気象庁,153.4500,ITM/RJOO,AIR,grand,FM,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+VOR,114.75MHz,ITM/RJOO,AIR,ILS,,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+DME,1055MHz,ITM/RJOO,AIR,ILS,,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+ILS-LOC 32L,110.1MHz,ITM/RJOO,AIR,ILS,,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+ILS-GP 32L,334.4MHz,ITM/RJOO,AIR,ILS,,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+ILS-DME 32L,999MHz,ITM/RJOO,AIR,ILS,,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391
+MSAS,1575.42MHz,ITM/RJOO,AIR,ILS,,伊丹,"ITM,RJOO,大阪国際,伊丹,大阪,兵庫,関西,近畿",,34.7844,135.4391

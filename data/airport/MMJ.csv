@@ -1,0 +1,17 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+RDO,118.6500,MMJ/RJAF,AIR,RDO,AM,松本,"MMJ,RJAF,松本,信州まつもと,中部,長野",,36.1646,137.9263
+神戸CON01,132.4500,MMJ/RJAF,AIR,CON,AM,松本,"MMJ,RJAF,松本,信州まつもと,中部,長野",,36.1646,137.9263
+神戸CON02,125.6000,MMJ/RJAF,AIR,CON,AM,松本,"MMJ,RJAF,松本,信州まつもと,中部,長野",,36.1646,137.9263
+神戸CON03,304.4000,MMJ/RJAF,AIR,CON,AM,松本,"MMJ,RJAF,松本,信州まつもと,中部,長野",,36.1646,137.9263
+神戸CON04,317.1000,MMJ/RJAF,AIR,CON,AM,松本,"MMJ,RJAF,松本,信州まつもと,中部,長野",,36.1646,137.9263
+FDA,123.6750,MMJ/RJAF,AIR,company,AM,松本,"MMJ,RJAF,松本,信州まつもと,中部,長野",,36.1646,137.9263
+フジビジネスジェット,130.3500,MMJ/RJAF,AIR,company,AM,松本,"MMJ,RJAF,松本,信州まつもと,中部,長野",,36.1646,137.9263
+新日本ヘリコプター,130.1500,MMJ/RJAF,AIR,company,AM,松本,"MMJ,RJAF,松本,信州まつもと,中部,長野",,36.1646,137.9263
+東邦航空,130.8500,MMJ/RJAF,AIR,company,AM,松本,"MMJ,RJAF,松本,信州まつもと,中部,長野",,36.1646,137.9263
+長野県警察航空隊,135.9500,MMJ/RJAF,AIR,company,AM,松本,"MMJ,RJAF,松本,信州まつもと,中部,長野",,36.1646,137.9263
+長野県消防防災航空隊01,131.8750,MMJ/RJAF,AIR,company,AM,松本,"MMJ,RJAF,松本,信州まつもと,中部,長野",,36.1646,137.9263
+長野県消防防災航空隊02,149.6500,MMJ/RJAF,AIR,company,FM,松本,"MMJ,RJAF,松本,信州まつもと,中部,長野",,36.1646,137.9263
+セノン,3B 3D,MMJ/RJAF,AIR,grand,AM,松本,"MMJ,RJAF,松本,信州まつもと,中部,長野",,36.1646,137.9263
+KSP,3B,MMJ/RJAF,AIR,grand,AM,松本,"MMJ,RJAF,松本,信州まつもと,中部,長野",,36.1646,137.9263
+VOR,117.6MHz,MMJ/RJAF,AIR,ILS,,松本,"MMJ,RJAF,松本,信州まつもと,中部,長野",,36.1646,137.9263
+DME,1210MHz,MMJ/RJAF,AIR,ILS,,松本,"MMJ,RJAF,松本,信州まつもと,中部,長野",,36.1646,137.9263

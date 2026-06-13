@@ -1,0 +1,21 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+RDO,118.8000,SYO/JSY,AIR,RDO,AM,庄内,"SYO.RJSY,おいしい庄内,庄内,山形,東北",,38.8122,139.7870
+東京CON01,132.3000,SYO/JSY,AIR,CON,AM,庄内,"SYO.RJSY,おいしい庄内,庄内,山形,東北",,38.8122,139.7870
+東京CON02,300.2000,SYO/JSY,AIR,CON,AM,庄内,"SYO.RJSY,おいしい庄内,庄内,山形,東北",,38.8122,139.7870
+東京CON03,123.7750,SYO/JSY,AIR,CON,AM,庄内,"SYO.RJSY,おいしい庄内,庄内,山形,東北",,38.8122,139.7870
+東京CON04,276.9000,SYO/JSY,AIR,CON,AM,庄内,"SYO.RJSY,おいしい庄内,庄内,山形,東北",,38.8122,139.7870
+ANA/ADO,129.1000,SYO/JSY,AIR,conpany,AM,庄内,"SYO.RJSY,おいしい庄内,庄内,山形,東北",,38.8122,139.7870
+ANA,146.5300,SYO/JSY,AIR,grand,FM,庄内,"SYO.RJSY,おいしい庄内,庄内,山形,東北",,38.8122,139.7870
+庄内空港管理事務所01,154.2100,SYO/JSY,AIR,grand,FM,庄内,"SYO.RJSY,おいしい庄内,庄内,山形,東北",,38.8122,139.7870
+庄内空港管理事務所02,153.4500,SYO/JSY,AIR,grand,FM,庄内,"SYO.RJSY,おいしい庄内,庄内,山形,東北",,38.8122,139.7870
+庄内空港ビル,3B,SYO/JSY,AIR,grand,FM,庄内,"SYO.RJSY,おいしい庄内,庄内,山形,東北",,38.8122,139.7870
+航空局,153.4500,SYO/JSY,AIR,grand,FM,庄内,"SYO.RJSY,おいしい庄内,庄内,山形,東北",,38.8122,139.7870
+VOR,109.6MHz,SYO/JSY,AIR,ILS,,庄内,"SYO.RJSY,おいしい庄内,庄内,山形,東北",,38.8122,139.7870
+DME,994MHz,SYO/JSY,AIR,ILS,,庄内,"SYO.RJSY,おいしい庄内,庄内,山形,東北",,38.8122,139.7870
+ILS-LOC 09,110.9MHz,SYO/JSY,AIR,ILS,,庄内,"SYO.RJSY,おいしい庄内,庄内,山形,東北",,38.8122,139.7870
+ILS-GP 09,330.8MHz,SYO/JSY,AIR,ILS,,庄内,"SYO.RJSY,おいしい庄内,庄内,山形,東北",,38.8122,139.7870
+ILS-DME09,1007MHz,SYO/JSY,AIR,ILS,,庄内,"SYO.RJSY,おいしい庄内,庄内,山形,東北",,38.8122,139.7870
+LOC 27,111.5MHz,SYO/JSY,AIR,ILS,,庄内,"SYO.RJSY,おいしい庄内,庄内,山形,東北",,38.8122,139.7870
+LOC-DME27,1013MHz,SYO/JSY,AIR,ILS,,庄内,"SYO.RJSY,おいしい庄内,庄内,山形,東北",,38.8122,139.7870
+,,,,,,,,,,
+,,,,,,,,,,

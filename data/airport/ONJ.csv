@@ -1,0 +1,13 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+RDO,18.7500,ONJ/RJSR,AIR,RDO,AM,大館能代,"ONJ,RJSR,大館能代,秋田,東北",,40.1919,140.371
+白神APP01,119.2500,ONJ/RJSR,AIR,APP,AM,大館能代,"ONJ,RJSR,大館能代,秋田,東北",,40.1919,140.371
+白神APP02,315.3000,ONJ/RJSR,AIR,APP,AM,大館能代,"ONJ,RJSR,大館能代,秋田,東北",,40.1919,140.371
+白神APP03,120.6500,ONJ/RJSR,AIR,APP,AM,大館能代,"ONJ,RJSR,大館能代,秋田,東北",,40.1919,140.371
+ANA,129.8500,ONJ/RJSR,AIR,company,AM,大館能代,"ONJ,RJSR,大館能代,秋田,東北",,40.1919,140.371
+ANA,149.5300,ONJ/RJSR,AIR,grand,FM,大館能代,"ONJ,RJSR,大館能代,秋田,東北",,40.1919,140.371
+大館能代空港管理事務所,154.2100,ONJ/RJSR,AIR,grand,FM,大館能代,"ONJ,RJSR,大館能代,秋田,東北",,40.1919,140.371
+VOR,114.75MHz,ONJ/RJSR,AIR,ILS,,大館能代,"ONJ,RJSR,大館能代,秋田,東北",,40.1919,140.371
+DME,1055MHz,ONJ/RJSR,AIR,ILS,,大館能代,"ONJ,RJSR,大館能代,秋田,東北",,40.1919,140.371
+ILS-LOC 11,110.15MHz,ONJ/RJSR,AIR,ILS,,大館能代,"ONJ,RJSR,大館能代,秋田,東北",,40.1919,140.371
+ILS-GP 11,334.25MHz,ONJ/RJSR,AIR,ILS,,大館能代,"ONJ,RJSR,大館能代,秋田,東北",,40.1919,140.371
+ILS-DME,1125MHz,ONJ/RJSR,AIR,ILS,,大館能代,"ONJ,RJSR,大館能代,秋田,東北",,40.1919,140.371

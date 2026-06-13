@@ -1,0 +1,17 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+RDO01,122.7000,GAJ/RJSC,AIR,RDO,AM,山形,"GAJ.RJSC,おいしい山形,山形,東北",,38.4116,140.3711
+RDO02,126.2000,GAJ/RJSC,AIR,RDO,AM,山形,"GAJ.RJSC,おいしい山形,山形,東北",,38.4116,140.3711
+東京CON01,132.3000,GAJ/RJSC,AIR,CON,AM,山形,"GAJ.RJSC,おいしい山形,山形,東北",,38.4116,140.3711
+東京CON02,300.2000,GAJ/RJSC,AIR,CON,AM,山形,"GAJ.RJSC,おいしい山形,山形,東北",,38.4116,140.3711
+東京CON03,127.6500,GAJ/RJSC,AIR,CON,AM,山形,"GAJ.RJSC,おいしい山形,山形,東北",,38.4116,140.3711
+東京CON04,303.4000,GAJ/RJSC,AIR,CON,AM,山形,"GAJ.RJSC,おいしい山形,山形,東北",,38.4116,140.3711
+JAL/FDA,130.1000,GAJ/RJSC,AIR,company,AM,山形,"GAJ.RJSC,おいしい山形,山形,東北",,38.4116,140.3711
+山形県警察航空隊,135.9500,GAJ/RJSC,AIR,company,AM,山形,"GAJ.RJSC,おいしい山形,山形,東北",,38.4116,140.3711
+山形県消防防災航空隊01,131.9250,GAJ/RJSC,AIR,company,AM,山形,"GAJ.RJSC,おいしい山形,山形,東北",,38.4116,140.3711
+山形県消防防災航空隊02,399.6500,GAJ/RJSC,AIR,company,AM,山形,"GAJ.RJSC,おいしい山形,山形,東北",,38.4116,140.3711
+山形県消防防災航空隊基地局,147.3200,GAJ/RJSC,AIR,company,AM,山形,"GAJ.RJSC,おいしい山形,山形,東北",,38.4116,140.3711
+山形県消防防災航空隊移動局,143.3200,GAJ/RJSC,AIR,company,AM,山形,"GAJ.RJSC,おいしい山形,山形,東北",,38.4116,140.3711
+山形空港管理事務所,154.2100,GAJ/RJSC,AIR,grand,,山形,"GAJ.RJSC,おいしい山形,山形,東北",,38.4116,140.3711
+航空局,153.4500,GAJ/RJSC,AIR,grand,,山形,"GAJ.RJSC,おいしい山形,山形,東北",,38.4116,140.3711
+山形空港ビル,3R,GAJ/RJSC,AIR,grand,,山形,"GAJ.RJSC,おいしい山形,山形,東北",,38.4116,140.3711
+遭難対策無線,166.2300,GAJ/RJSC,AIR,grand,,山形,"GAJ.RJSC,おいしい山形,山形,東北",,38.4116,140.3711

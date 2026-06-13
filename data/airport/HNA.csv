@@ -1,0 +1,24 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+RDO01,118.2000,HNA/RJSI,AIR,RDO,AM,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+RDO02,126.2000,HNA/RJSI,AIR,RDO,AM,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+白神APP01,119.2500,HNA/RJSI,AIR,APP,AM,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+白神APP02,315.3000,HNA/RJSI,AIR,APP,AM,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+白神APP03,120.6500,HNA/RJSI,AIR,APP,AM,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+JAL,130.1750,HNA/RJSI,AIR,company,AM,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+FDA,129.2500,HNA/RJSI,AIR,company,AM,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+フジビジネスジェット,129.2500,HNA/RJSI,AIR,company,AM,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+東方航空,130.8500,HNA/RJSI,AIR,company,AM,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+岩手県警察航空隊,135.9500,HNA/RJSI,AIR,company,AM,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+岩手県防災航空隊01,131.9250,HNA/RJSI,AIR,company,AM,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+,382.9250,HNA/RJSI,AIR,company,AM,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+SAS(FDA),3R,HNA/RJSI,AIR,grand,,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+花巻空港管理事務所,157.6100,HNA/RJSI,AIR,grand,,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+航空局,153.4500,HNA/RJSI,AIR,grand,FM,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+岩手県空港ターミナルビル,3R,HNA/RJSI,AIR,grand,FM,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+遭難対策無線,166.2300,HNA/RJSI,AIR,grand,,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+VOR,112.8MHz,HNA/RJSI,AIR,ILS,,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+DME,1162MHz,HNA/RJSI,AIR,ILS,,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+ILS-LOC 20,109.3MHz,HNA/RJSI,AIR,ILS,,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+ILS-GP 20,332.0MHz,HNA/RJSI,AIR,ILS,,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+ILS-DME 20,991MHz,HNA/RJSI,AIR,ILS,,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353
+MSAS,1575.42MHz,HNA/RJSI,AIR,ILS,,花巻,"HNA,RJSI,花巻,いわて花巻,岩手,東北",,39.4286,141.1353

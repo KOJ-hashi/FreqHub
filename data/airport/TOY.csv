@@ -1,0 +1,21 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+富山TWR01,124.3000,TOY/RJNT,AIR,TWR,AM,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+富山TWR02,126.2000,TOY/RJNT,AIR,TWR,AM,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+神戸CON01,132.4500,TOY/RJNT,AIR,CON,AM,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+神戸CON02,125.6000,TOY/RJNT,AIR,CON,AM,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+神戸CON03,304.4000,TOY/RJNT,AIR,CON,AM,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+神戸CON04,317.1000,TOY/RJNT,AIR,CON,AM,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+富山県警察,135.9500,TOY/RJNT,AIR,company,AM,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+富山県消防防災航空隊01,131.8750,TOY/RJNT,AIR,company,AM,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+富山県消防防災航空隊02,398.9250,TOY/RJNT,AIR,company,FM,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+ANA/IBX/SNJ/ADO,129.8500,TOY/RJNT,AIR,company,AM,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+エアロトヨタ,129.6000,TOY/RJNT,AIR,company,AM,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+東邦航空,130.8500,TOY/RJNT,AIR,company,AM,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+ANA,149.5300,TOY/RJNT,AIR,grand,FM,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+富山空港管理事務所/航空局/気象庁,153.4500,TOY/RJNT,AIR,grand,FM,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+遭難対策無線,166.2500,TOY/RJNT,AIR,grand,FM,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+VOR,110.58MHz,TOY/RJNT,AIR,ILS,,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+DME,1132MHz,TOY/RJNT,AIR,ILS,,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+LOC 20,109.3MHz,TOY/RJNT,AIR,ILS,,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+LOC-DME20,991MHz,TOY/RJNT,AIR,ILS,,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896
+MSAS,1575.42MHz,TOY/RJNT,AIR,ILS,,富山,"TOY,RJNT,富山,富山きときと,中部",,36.6428,137.1896

@@ -1,0 +1,93 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+関西TWR01,118.2000,KIX/RJBB,AIR,TWR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西TWR02,118.0500,KIX/RJBB,AIR,TWR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西TWR03,126.2000,KIX/RJBB,AIR,TWR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西TWR04,236.8000,KIX/RJBB,AIR,TWR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西APP/RDR01,120.2500,KIX/RJBB,AIR,APP/RDR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西APP/RDR02,120.4500,KIX/RJBB,AIR,APP/RDR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西APP/RDR03,125.5000,KIX/RJBB,AIR,APP/RDR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西APP/RDR04,124.7000,KIX/RJBB,AIR,APP/RDR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西APP/RDR05,121.1500,KIX/RJBB,AIR,APP/RDR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西APP/RDR06,120.8500,KIX/RJBB,AIR,APP/RDR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西APP/RDR07,125.0000,KIX/RJBB,AIR,APP/RDR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西APP/RDR08,119.7500,KIX/RJBB,AIR,APP/RDR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西APP/RDR09,124.8000,KIX/RJBB,AIR,APP/RDR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西APP/RDR10,121.2000,KIX/RJBB,AIR,APP/RDR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西APP/RDR11,120.4000,KIX/RJBB,AIR,APP/RDR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西APP/RDR12,127.5750,KIX/RJBB,AIR,APP/RDR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西APP/RDR13,230.6000,KIX/RJBB,AIR,APP/RDR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西APP/RDR14,258.3000,KIX/RJBB,AIR,APP/RDR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西APP/RDR15,261.2000,KIX/RJBB,AIR,APP/RDR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西DEP01,119.2000,KIX/RJBB,AIR,DEP,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西DEP02,120.6500,KIX/RJBB,AIR,DEP,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西DEP03,119.5000,KIX/RJBB,AIR,DEP,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西DEP04,119.7500,KIX/RJBB,AIR,DEP,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西DEP05,124.8000,KIX/RJBB,AIR,DEP,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西DEP06,125.0000,KIX/RJBB,AIR,DEP,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西DEP07,120.4000,KIX/RJBB,AIR,DEP,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西DEP08,121.2000,KIX/RJBB,AIR,DEP,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西DEP09,261.2000,KIX/RJBB,AIR,DEP,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西GND01,121.6000,KIX/RJBB,AIR,GND,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西GND02,121.6500,KIX/RJBB,AIR,GND,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西GND03,118.5750,KIX/RJBB,AIR,GND,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西GND04,126.2000,KIX/RJBB,AIR,GND,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西TCA01,121.1000,KIX/RJBB,AIR,TCA,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西TCA02,125.3000,KIX/RJBB,AIR,TCA,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西TCA03,270.8000,KIX/RJBB,AIR,TCA,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西TCA04,119.0250,KIX/RJBB,AIR,TCA,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西TCA05,315.8000,KIX/RJBB,AIR,TCA,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西CLR01,121.9000,KIX/RJBB,AIR,CLR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西CLR02,126.2000,KIX/RJBB,AIR,CLR,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+ATIS,127.8500,KIX/RJBB,AIR,ATIS,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+ANA/APJ/SFJ/NCA,129.4750,KIX/RJBB,AIR,company,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+JAL/JJP,129.2250,KIX/RJBB,AIR,company,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+日本空港無線サービス01,130.9500,KIX/RJBB,AIR,company,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+日本空港無線サービス02,131.0500,KIX/RJBB,AIR,company,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+海上保安庁01,130.3000,KIX/RJBB,AIR,company,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+海上保安庁02,134.5000,KIX/RJBB,AIR,company,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+空港デジタル無線01,460.2000,KIX/RJBB,AIR,company,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+空港デジタル無線02,460.2500,KIX/RJBB,AIR,company,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+空港デジタル無線03,460.3000,KIX/RJBB,AIR,company,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+空港デジタル無線04,460.5000,KIX/RJBB,AIR,company,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+空港デジタル無線05,460.7000,KIX/RJBB,AIR,company,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+空港デジタル無線06,460.7500,KIX/RJBB,AIR,company,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+空港デジタル無線07,460.8000,KIX/RJBB,AIR,company,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+空港デジタル無線08,460.9000,KIX/RJBB,AIR,company,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+空港デジタル無線09,461.0000,KIX/RJBB,AIR,company,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+空港デジタル無線10,461.2000,KIX/RJBB,AIR,company,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+空港デジタル無線11,461.2500,KIX/RJBB,AIR,company,AM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西エアポート01,157.9300,KIX/RJBB,AIR,grand,FM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西エアポート02,414.6000,KIX/RJBB,AIR,grand,FM,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+ロイヤルエアポートサービス,3R,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+JAL/JJP,3B,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+APJ,3R,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+新関西国際空港,3A,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+セノン,3B,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+KSP,3B,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+AASC,3B,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+CKTS,3B,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+I-SEC,3B,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+サンセセキュリティサービス,3B,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西エアポートオペレーションサービス,3B 3R,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+Bisouエアポートグランドサービス,3B,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+エアポートカーゴサービス,3B,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+TBKエアポートグランドサービス,3B,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+日航関西エアカーゴシステム,3R,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+関西空港セキュリティ,3B,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+KTL,3B,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+国際航空旅客サービス,3R,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+全日警,3B,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+キャリアロード,3B,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+出入国在留管理庁,3B,KIX/RJBB,AIR,grand,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+VOR,111.6MHz,KIX/RJBB,AIR,ILS,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+DME,1014MHz,KIX/RJBB,AIR,ILS,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+ILS-LOC 06R,108.1MHz,KIX/RJBB,AIR,ILS,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+ILS-GP 06R,334.7MHz,KIX/RJBB,AIR,ILS,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+ILS-DME,979MHz,KIX/RJBB,AIR,ILS,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+IM 06R,75MHz,KIX/RJBB,AIR,ILS,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+ILS-LOC 24L,110.7MHz,KIX/RJBB,AIR,ILS,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+ILS-GP 24L,330.2MHz,KIX/RJBB,AIR,ILS,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+ILS-DME,1005MHz,KIX/RJBB,AIR,ILS,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+IM 24L,75MHz,KIX/RJBB,AIR,ILS,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+ILS-LOC 06L,108.7MHz,KIX/RJBB,AIR,ILS,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
+ILS-GP 06L,330.5MHz,KIX/RJBB,AIR,ILS,,関西,"KIX,RJBB,関西国際空港,関空,大阪,関西,近畿",,34.4345,135.2445
