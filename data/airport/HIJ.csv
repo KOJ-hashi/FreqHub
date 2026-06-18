@@ -1,0 +1,34 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+広島TWR01,118.6000,HIJ/RJOA,AIR,TWR,AM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+広島TWR02,126.2000,HIJ/RJOA,AIR,TWR,AM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+広島APP01,124.0500,HIJ/RJOA,AIR,APP,AM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+広島APP02,119.9000,HIJ/RJOA,AIR,APP,AM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+広島RDR01,119.9000,HIJ/RJOA,AIR,RDR,AM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+広島RDR02,124.0500,HIJ/RJOA,AIR,RDR,AM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+広島RDR03,125.1500,HIJ/RJOA,AIR,RDR,AM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+広島DEP,119.9000,HIJ/RJOA,AIR,DEP,AM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+ATIS,127.2500,HIJ/RJOA,AIR,ATIS,AM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+ANA/IBX/ADO/AKX,129.1000,HIJ/RJOA,AIR,company,AM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+JAL/JAR/JTA,131.8500,HIJ/RJOA,AIR,company,AM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+SJO,129.5500,HIJ/RJOA,AIR,company,AM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+広島防災航空隊01,131.9250,HIJ/RJOA,AIR,company,AM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+広島防災航空隊02,149.3700,HIJ/RJOA,AIR,company,FM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+広島防災航空隊03,382.9250,HIJ/RJOA,AIR,company,FM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+海上保安庁01,130.3000,HIJ/RJOA,AIR,company,AM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+海上保安庁02,134.5000,HIJ/RJOA,AIR,company,AM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+ANA,149.5300,HIJ/RJOA,AIR,grand,FM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+中国東方航空,3B,HIJ/RJOA,AIR,grand,,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+中華航空,154,HIJ/RJOA,AIR,grand,,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+中国国際航空,3B,HIJ/RJOA,AIR,grand,,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+エアソウル,3B,HIJ/RJOA,AIR,grand,,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+広島国際空港01,157.6100,HIJ/RJOA,AIR,grand,FM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+広島国際空港02,3B,HIJ/RJOA,AIR,grand,,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+航空局/気象庁,153.4500,HIJ/RJOA,AIR,grand,FM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+KAFCO,414.6000,HIJ/RJOA,AIR,grand,FM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+綜合警備保障,373.0250,HIJ/RJOA,AIR,grand,FM,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+VOR,117.9MHz,HIJ/RJOA,AIR,ILS,,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+DME,1213MHz,HIJ/RJOA,AIR,ILS,,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+ILS-LOC 10,108.7MHz,HIJ/RJOA,AIR,ILS,,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+ILS-GP 10,330.5MHz,HIJ/RJOA,AIR,ILS,,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+ILS-DME 10,985MHz,HIJ/RJOA,AIR,ILS,,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919
+MSAS,1575.42MHz,HIJ/RJOA,AIR,ILS,,広島,"HIJ,RJOA,広島,中国・四国,中国",,34.4398,132.919

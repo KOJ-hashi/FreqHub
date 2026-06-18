@@ -1,0 +1,39 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+米子TWR01,236.8,YGJ/RJOH,AIR,TWR,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+米子TWR02,126.2,YGJ/RJOH,AIR,TWR,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+米子TWR03,302.4,YGJ/RJOH,AIR,TWR,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+米子TWR04,247,YGJ/RJOH,AIR,TWR,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+米子TWR05,123.1,YGJ/RJOH,AIR,TWR,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+米子TWR06,118,YGJ/RJOH,AIR,TWR,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+米子APP/RDR/DEP01,120.1,YGJ/RJOH,AIR,APP/RDR/DEP,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+米子APP/RDR/DEP02,125.4,YGJ/RJOH,AIR,APP/RDR/DEP,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+米子APP/RDR/DEP03,258.2,YGJ/RJOH,AIR,APP/RDR/DEP,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+米子APP/RDR/DEP04,317.8,YGJ/RJOH,AIR,APP/RDR/DEP,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+米子GND01,275.8,YGJ/RJOH,AIR,GND,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+米子GND02,118,YGJ/RJOH,AIR,GND,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+RDR/GCA01,335.6,YGJ/RJOH,AIR,RDR/GCA,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+RDR/GCA02,270.8,YGJ/RJOH,AIR,RDR/GCA,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+RDR/GCA03,134.1,YGJ/RJOH,AIR,RDR/GCA,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+RDR/GCA04,125.3,YGJ/RJOH,AIR,RDR/GCA,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+RDR/GCA05,228.2,YGJ/RJOH,AIR,RDR/GCA,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+RDR/GCA06,250.4,YGJ/RJOH,AIR,RDR/GCA,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+RDR/GCA07,289.4,YGJ/RJOH,AIR,RDR/GCA,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+RDR/GCA08,316,YGJ/RJOH,AIR,RDR/GCA,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+RDR/GCA09,141.8,YGJ/RJOH,AIR,RDR/GCA,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+ANA,130.6,YGJ/RJOH,AIR,company,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+海上保安庁01,130.3,YGJ/RJOH,AIR,company,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+海上保安庁02,134.5,YGJ/RJOH,AIR,company,AM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+ANA,149.53,YGJ/RJOH,AIR,grand,FM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+エアソウル,3B,YGJ/RJOH,AIR,grand,,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+米子空港ビル,3R,YGJ/RJOH,AIR,grand,,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+航空保安協会,3B,YGJ/RJOH,AIR,grand,,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+KAFCO,3B,YGJ/RJOH,AIR,grand,,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+航空局,153.45,YGJ/RJOH,AIR,grand,FM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+海上保安庁,422.1,YGJ/RJOH,AIR,grand,FM,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+TACACN,1201MHz,YGJ/RJOH,AIR,ILS,,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+VOR,117.3MHz,YGJ/RJOH,AIR,ILS,,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+DME,1207MHz,YGJ/RJOH,AIR,ILS,,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+ILS-LOC 25,108.95MHz,YGJ/RJOH,AIR,ILS,,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+ILS-GP 25,329.15MHz,YGJ/RJOH,AIR,ILS,,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+ILS-DME 25,1113MHz,YGJ/RJOH,AIR,ILS,,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451
+MASAS,1575.42MHz,YGJ/RJOH,AIR,ILS,,米子,"YGJ,RJOH,米子,美保,米子鬼太郎,鳥取,中国,中国・四国",,35.5005,133.2451

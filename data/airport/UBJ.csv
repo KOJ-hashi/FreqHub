@@ -1,0 +1,19 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+RDO01,118.0500,UBJ/RJDC,AIR,RDO,AM,山口,"UBJ,RJDC,山口宇部,山口,中国・四国,中国",,33.9318,133.2740
+RDO02,126.2000,UBJ/RJDC,AIR,RDO,AM,山口,"UBJ,RJDC,山口宇部,山口,中国・四国,中国",,33.9318,133.2740
+築城APP01,119.2250,UBJ/RJDC,AIR,APP,AM,山口,"UBJ,RJDC,山口宇部,山口,中国・四国,中国",,33.9318,133.2740
+築城APP02,315.9000,UBJ/RJDC,AIR,APP,AM,山口,"UBJ,RJDC,山口宇部,山口,中国・四国,中国",,33.9318,133.2740
+山口県警航空隊,135.9500,UBJ/RJDC,AIR,company,AM,山口,"UBJ,RJDC,山口宇部,山口,中国・四国,中国",,33.9318,133.2740
+山口県消防防災航空隊01,131.9750,UBJ/RJDC,AIR,company,AM,山口,"UBJ,RJDC,山口宇部,山口,中国・四国,中国",,33.9318,133.2740
+山口県消防防災航空隊02,398.9250,UBJ/RJDC,AIR,company,FM,山口,"UBJ,RJDC,山口宇部,山口,中国・四国,中国",,33.9318,133.2740
+ANA/SFJ,129.1000,UBJ/RJDC,AIR,company,AM,山口,"UBJ,RJDC,山口宇部,山口,中国・四国,中国",,33.9318,133.2740
+JAL,128.9250,UBJ/RJDC,AIR,company,AM,山口,"UBJ,RJDC,山口宇部,山口,中国・四国,中国",,33.9318,133.2740
+ANA,149.5300,UBJ/RJDC,AIR,grand,FM,山口,"UBJ,RJDC,山口宇部,山口,中国・四国,中国",,33.9318,133.2740
+航空局/気象庁,153.4500,UBJ/RJDC,AIR,grand,FM,山口,"UBJ,RJDC,山口宇部,山口,中国・四国,中国",,33.9318,133.2740
+空港管理事務所,153.4500,UBJ/RJDC,AIR,grand,FM,山口,"UBJ,RJDC,山口宇部,山口,中国・四国,中国",,33.9318,133.2740
+山口宇部空港ビルサービス,3R,UBJ/RJDC,AIR,grand,,山口,"UBJ,RJDC,山口宇部,山口,中国・四国,中国",,33.9318,133.2740
+VOR,110.8MHz,UBJ/RJDC,AIR,ILS,,山口,"UBJ,RJDC,山口宇部,山口,中国・四国,中国",,33.9318,133.2740
+DME,1006MHz,UBJ/RJDC,AIR,ILS,,山口,"UBJ,RJDC,山口宇部,山口,中国・四国,中国",,33.9318,133.2740
+ILS-LOC 07,100.1MHz,UBJ/RJDC,AIR,ILS,,山口,"UBJ,RJDC,山口宇部,山口,中国・四国,中国",,33.9318,133.2740
+ILS-GP 07,334.4MHz,UBJ/RJDC,AIR,ILS,,山口,"UBJ,RJDC,山口宇部,山口,中国・四国,中国",,33.9318,133.2740
+ILS DME 07,999MHz,UBJ/RJDC,AIR,ILS,,山口,"UBJ,RJDC,山口宇部,山口,中国・四国,中国",,33.9318,133.2740

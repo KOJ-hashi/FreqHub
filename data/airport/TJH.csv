@@ -1,0 +1,14 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+RDO,118.4000,TJH/RJBT,AIR,RDO,AM,"TJH,RJBT,但馬,但馬飛行場コウノトリ但馬,兵庫,関西,近畿",,,35.5127,134.7869
+但馬フライトサービス,130.8000,TJH/RJBT,AIR,,AM,"TJH,RJBT,但馬,但馬飛行場コウノトリ但馬,兵庫,関西,近畿",,,35.5127,134.7869
+神戸CON01,133.8000,TJH/RJBT,AIR,CON,AM,"TJH,RJBT,但馬,但馬飛行場コウノトリ但馬,兵庫,関西,近畿",,,35.5127,134.7869
+神戸CON02,124.9500,TJH/RJBT,AIR,CON,AM,"TJH,RJBT,但馬,但馬飛行場コウノトリ但馬,兵庫,関西,近畿",,,35.5127,134.7869
+神戸CON03,287.6000,TJH/RJBT,AIR,CON,AM,"TJH,RJBT,但馬,但馬飛行場コウノトリ但馬,兵庫,関西,近畿",,,35.5127,134.7869
+神戸CON04,315.7000,TJH/RJBT,AIR,CON,AM,"TJH,RJBT,但馬,但馬飛行場コウノトリ但馬,兵庫,関西,近畿",,,35.5127,134.7869
+JAC,130.1000,TJH/RJBT,AIR,company,AM,"TJH,RJBT,但馬,但馬飛行場コウノトリ但馬,兵庫,関西,近畿",,,35.5127,134.7869
+ヒラタ学園,129.8000,TJH/RJBT,AIR,company,AM,"TJH,RJBT,但馬,但馬飛行場コウノトリ但馬,兵庫,関西,近畿",,,35.5127,134.7869
+JAC,150.6500,TJH/RJBT,AIR,grand,FM,"TJH,RJBT,但馬,但馬飛行場コウノトリ但馬,兵庫,関西,近畿",,,35.5127,134.7869
+対馬空港管理事務所,3B,TJH/RJBT,AIR,grand,,"TJH,RJBT,但馬,但馬飛行場コウノトリ但馬,兵庫,関西,近畿",,,35.5127,134.7869
+LOC 01,109.55MHz,TJH/RJBT,AIR,ILS,,"TJH,RJBT,但馬,但馬飛行場コウノトリ但馬,兵庫,関西,近畿",,,35.5127,134.7869
+LOC-DME 01,1109MHz,TJH/RJBT,AIR,ILS,,"TJH,RJBT,但馬,但馬飛行場コウノトリ但馬,兵庫,関西,近畿",,,35.5127,134.7869
+MSAS,1575.42MHz,TJH/RJBT,AIR,ILS,,"TJH,RJBT,但馬,但馬飛行場コウノトリ但馬,兵庫,関西,近畿",,,35.5127,134.7869

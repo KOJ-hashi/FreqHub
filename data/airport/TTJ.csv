@@ -1,0 +1,20 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+RDO,118.1500,TTJ/RJOR,AIR,RDO,AM,鳥取,"TTJ.RJOR,鳥取,鳥取砂丘コナン,中国,中国・四国",,35.5300,134.1663
+神戸CON01,133.8000,TTJ/RJOR,AIR,CON,AM,鳥取,"TTJ.RJOR,鳥取,鳥取砂丘コナン,中国,中国・四国",,35.5300,134.1663
+神戸CON02,124.9500,TTJ/RJOR,AIR,CON,AM,鳥取,"TTJ.RJOR,鳥取,鳥取砂丘コナン,中国,中国・四国",,35.5300,134.1663
+神戸CON03,287.6000,TTJ/RJOR,AIR,CON,AM,鳥取,"TTJ.RJOR,鳥取,鳥取砂丘コナン,中国,中国・四国",,35.5300,134.1663
+神戸CON04,315.7000,TTJ/RJOR,AIR,CON,AM,鳥取,"TTJ.RJOR,鳥取,鳥取砂丘コナン,中国,中国・四国",,35.5300,134.1663
+ANA,129.1000,TTJ/RJOR,AIR,company,AM,鳥取,"TTJ.RJOR,鳥取,鳥取砂丘コナン,中国,中国・四国",,35.5300,134.1663
+鳥取県警察航空隊,135.9500,TTJ/RJOR,AIR,company,AM,鳥取,"TTJ.RJOR,鳥取,鳥取砂丘コナン,中国,中国・四国",,35.5300,134.1663
+鳥取県消防防災航空隊01,131.9750,TTJ/RJOR,AIR,company,AM,鳥取,"TTJ.RJOR,鳥取,鳥取砂丘コナン,中国,中国・四国",,35.5300,134.1663
+鳥取県消防防災航空隊02,150.8100,TTJ/RJOR,AIR,company,FM,鳥取,"TTJ.RJOR,鳥取,鳥取砂丘コナン,中国,中国・四国",,35.5300,134.1663
+鳥取県消防防災航空隊03,382.9250,TTJ/RJOR,AIR,company,FM,鳥取,"TTJ.RJOR,鳥取,鳥取砂丘コナン,中国,中国・四国",,35.5300,134.1663
+ANA,149.5300,TTJ/RJOR,AIR,grand,FM,鳥取,"TTJ.RJOR,鳥取,鳥取砂丘コナン,中国,中国・四国",,35.5300,134.1663
+鳥取空港管理事務所,153.4500,TTJ/RJOR,AIR,grand,FM,鳥取,"TTJ.RJOR,鳥取,鳥取砂丘コナン,中国,中国・四国",,35.5300,134.1663
+航空局/気象庁,153.4500,TTJ/RJOR,AIR,grand,FM,鳥取,"TTJ.RJOR,鳥取,鳥取砂丘コナン,中国,中国・四国",,35.5300,134.1663
+鳥取空港ビル,3R,TTJ/RJOR,AIR,grand,,鳥取,"TTJ.RJOR,鳥取,鳥取砂丘コナン,中国,中国・四国",,35.5300,134.1663
+VOR,110.2MHz,TTJ/RJOR,AIR,ILS,,鳥取,"TTJ.RJOR,鳥取,鳥取砂丘コナン,中国,中国・四国",,35.5300,134.1663
+DME,1000MHz,TTJ/RJOR,AIR,ILS,,鳥取,"TTJ.RJOR,鳥取,鳥取砂丘コナン,中国,中国・四国",,35.5300,134.1663
+ILS-LOC 10,111.5MHz,TTJ/RJOR,AIR,ILS,,鳥取,"TTJ.RJOR,鳥取,鳥取砂丘コナン,中国,中国・四国",,35.5300,134.1663
+ILS-GP 10,332.9MHz,TTJ/RJOR,AIR,ILS,,鳥取,"TTJ.RJOR,鳥取,鳥取砂丘コナン,中国,中国・四国",,35.5300,134.1663
+ILS-DME10,1013MHz,TTJ/RJOR,AIR,ILS,,,,,,

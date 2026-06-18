@@ -1,0 +1,15 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+RDO,122.2000,IWJ/RJOW,AIR,RDO,,岩見,"IWJ,RJOW,岩見,萩・岩見,島根,中国,中国・四国",,34.6760,131.7900
+神戸CON01,132.5000,IWJ/RJOW,AIR,CON,,岩見,"IWJ,RJOW,岩見,萩・岩見,島根,中国,中国・四国",,34.6760,131.7900
+神戸CON02,134.2500,IWJ/RJOW,AIR,CON,,岩見,"IWJ,RJOW,岩見,萩・岩見,島根,中国,中国・四国",,34.6760,131.7900
+神戸CON03,246.1000,IWJ/RJOW,AIR,CON,,岩見,"IWJ,RJOW,岩見,萩・岩見,島根,中国,中国・四国",,34.6760,131.7900
+神戸CON04,315.5000,IWJ/RJOW,AIR,CON,,岩見,"IWJ,RJOW,岩見,萩・岩見,島根,中国,中国・四国",,34.6760,131.7900
+ANA,130.6000,IWJ/RJOW,AIR,company,,岩見,"IWJ,RJOW,岩見,萩・岩見,島根,中国,中国・四国",,34.6760,131.7900
+ANA,149.5300,IWJ/RJOW,AIR,grand,,岩見,"IWJ,RJOW,岩見,萩・岩見,島根,中国,中国・四国",,34.6760,131.7900
+岩見空港管理事務所,153.4500,IWJ/RJOW,AIR,grand,,岩見,"IWJ,RJOW,岩見,萩・岩見,島根,中国,中国・四国",,34.6760,131.7900
+VOR,115.05MHz,IWJ/RJOW,AIR,ILS,,岩見,"IWJ,RJOW,岩見,萩・岩見,島根,中国,中国・四国",,34.6760,131.7900
+DME,1058MHz,IWJ/RJOW,AIR,ILS,,岩見,"IWJ,RJOW,岩見,萩・岩見,島根,中国,中国・四国",,34.6760,131.7900
+ILS-LOC 11,108.1000,IWJ/RJOW,AIR,ILS,,岩見,"IWJ,RJOW,岩見,萩・岩見,島根,中国,中国・四国",,34.6760,131.7900
+ILS-GP 11,334.7MHz,IWJ/RJOW,AIR,ILS,,岩見,"IWJ,RJOW,岩見,萩・岩見,島根,中国,中国・四国",,34.6760,131.7900
+ILS-DME 11,979MHz,IWJ/RJOW,AIR,ILS,,岩見,"IWJ,RJOW,岩見,萩・岩見,島根,中国,中国・四国",,34.6760,131.7900
+MSAS,1575MHz,IWJ/RJOW,AIR,ILS,,岩見,"IWJ,RJOW,岩見,萩・岩見,島根,中国,中国・四国",,34.6760,131.7900

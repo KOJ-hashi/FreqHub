@@ -1,0 +1,23 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+RDO01,122.7000,IZO/RJOC,AIR,RDO,AM,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+RDO02,126.2000,IZO/RJOC,AIR,RDO,AM,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+美保APP01,120.1000,IZO/RJOC,AIR,APP,AM,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+美保APP02,125.4000,IZO/RJOC,AIR,APP,AM,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+美保APP03,258.2000,IZO/RJOC,AIR,APP,AM,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+美保APP04,317.8000,IZO/RJOC,AIR,APP,AM,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+島根県警察航空隊,135.9500,IZO/RJOC,AIR,company,AM,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+島根県防災航空隊01,131.8750,IZO/RJOC,AIR,company,AM,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+島根県防災航空隊02,150.9100,IZO/RJOC,AIR,company,FM,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+島根県防災航空隊03,383.6500,IZO/RJOC,AIR,company,FM,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+JAL/JAC,130.1750,IZO/RJOC,AIR,grand,FM,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+FDA,122.4250,IZO/RJOC,AIR,grand,FM,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+フジビジネスジェット,122.4250,IZO/RJOC,AIR,grand,FM,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+セントラルヘリコプターサービス,130.1500,IZO/RJOC,AIR,grand,FM,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+SAS(FDA),3R,IZO/RJOC,AIR,grand,,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+航空局/気象庁,153.4500,IZO/RJOC,AIR,grand,FM,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+出雲空港管理事務所,153.4500,IZO/RJOC,AIR,grand,FM,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+VOR,113.4MHz,IZO/RJOC,AIR,ATIS,,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+DME,1168MHz,IZO/RJOC,AIR,ATIS,,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+LOC 25,111.7MHz,IZO/RJOC,AIR,ATIS,,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+LOC-DME,1015MHz,IZO/RJOC,AIR,ATIS,,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664
+MSAS,1575.42MHz,IZO/RJOC,AIR,ATIS,,出雲,"IZO,RJOC,出雲,出雲縁結び,島根,中国,中国・四国",,35.4139,132.8664

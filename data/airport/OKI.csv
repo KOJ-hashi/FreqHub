@@ -1,0 +1,13 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+RDO,118.6500,OKI/RJNO,AIR,RDO,,隠岐,"OKI,RJNO,隠岐,隠岐世界ジオパーク,島根,中国,中国・四国",,36.1783,133.3233
+神戸CON01,133.8000,OKI/RJNO,AIR,CON,,隠岐,"OKI,RJNO,隠岐,隠岐世界ジオパーク,島根,中国,中国・四国",,36.1783,133.3233
+神戸CON02,124.9500,OKI/RJNO,AIR,CON,,隠岐,"OKI,RJNO,隠岐,隠岐世界ジオパーク,島根,中国,中国・四国",,36.1783,133.3233
+神戸CON03,287.6000,OKI/RJNO,AIR,CON,,隠岐,"OKI,RJNO,隠岐,隠岐世界ジオパーク,島根,中国,中国・四国",,36.1783,133.3233
+神戸CON04,315.7000,OKI/RJNO,AIR,CON,,隠岐,"OKI,RJNO,隠岐,隠岐世界ジオパーク,島根,中国,中国・四国",,36.1783,133.3233
+JAL/JAR/JAC/JTA,130.1000,OKI/RJNO,AIR,company,,隠岐,"OKI,RJNO,隠岐,隠岐世界ジオパーク,島根,中国,中国・四国",,36.1783,133.3233
+隠岐空港管理事務所,153.4500,OKI/RJNO,AIR,grand,,隠岐,"OKI,RJNO,隠岐,隠岐世界ジオパーク,島根,中国,中国・四国",,36.1783,133.3233
+VOR,109.25MHz,OKI/RJNO,AIR,ILS,,隠岐,"OKI,RJNO,隠岐,隠岐世界ジオパーク,島根,中国,中国・四国",,36.1783,133.3233
+DME,1116MHz,OKI/RJNO,AIR,ILS,,隠岐,"OKI,RJNO,隠岐,隠岐世界ジオパーク,島根,中国,中国・四国",,36.1783,133.3233
+LOC 08,111.55MHz,OKI/RJNO,AIR,ILS,,隠岐,"OKI,RJNO,隠岐,隠岐世界ジオパーク,島根,中国,中国・四国",,36.1783,133.3233
+LOC-DME08,1139MHz,OKI/RJNO,AIR,ILS,,隠岐,"OKI,RJNO,隠岐,隠岐世界ジオパーク,島根,中国,中国・四国",,36.1783,133.3233
+MSAS,1575.42MHz,OKI/RJNO,AIR,ILS,,隠岐,"OKI,RJNO,隠岐,隠岐世界ジオパーク,島根,中国,中国・四国",,36.1783,133.3233

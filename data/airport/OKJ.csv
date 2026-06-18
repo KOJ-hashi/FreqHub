@@ -1,0 +1,25 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+岡山TWR01,124.3000,OKJ/RJOB,AIR,TWR,AM,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+岡山TWR02,126.2000,OKJ/RJOB,AIR,TWR,AM,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+関西APP/RDR01,121.2000,OKJ/RJOB,AIR,APP/RDR,AM,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+関西APP/RDR02,120.4000,OKJ/RJOB,AIR,APP/RDR,AM,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+関西APP/RDR03,261.2000,OKJ/RJOB,AIR,APP/RDR,AM,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+関西DEP01,121.2000,OKJ/RJOB,AIR,DEP,AM,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+関西DEP02,120.4000,OKJ/RJOB,AIR,DEP,AM,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+関西DEP03,120.4000,OKJ/RJOB,AIR,DEP,AM,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+関西DEP04,121.2000,OKJ/RJOB,AIR,DEP,AM,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+関西DEP05,261.2000,OKJ/RJOB,AIR,DEP,AM,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+ANA/ADO/ORC/AKX,129.1000,OKJ/RJOB,AIR,company,AM,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+JAL/JAR/JAC/JTA/AHX,130.0000,OKJ/RJOB,AIR,company,AM,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+ANA,149.5300,OKJ/RJOB,AIR,grand,FM,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+中国東方航空,3B,OKJ/RJOB,AIR,grand,,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+大韓航空,3B,OKJ/RJOB,AIR,grand,,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+岡山空港ターミナル,3B,OKJ/RJOB,AIR,grand,,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+航空局・気象庁,153.4500,OKJ/RJOB,AIR,grand,FM,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+岡山空港管理事務所,153.4500,OKJ/RJOB,AIR,grand,FM,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+VOR,111.0MHz,OKJ/RJOB,AIR,ILS,,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+DME,1008MHz,OKJ/RJOB,AIR,ILS,,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+ILS-LOC 07,110.3MHz,OKJ/RJOB,AIR,ILS,,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+ILS-GP 07,335.0MHz,OKJ/RJOB,AIR,ILS,,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+ILS-DME 07,1001MHz,OKJ/RJOB,AIR,ILS,,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
+MSAS,1575.42MHz,OKJ/RJOB,AIR,ILS,,岡山,"OKJ,RJOB,岡山,岡山桃太郎,中国,中国四国",,34.7569,133.8553
