@@ -1,0 +1,29 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+高知TWR01,118.7500,KCZ/RJOK,AIR,TWR,AM,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+高知TWR02,126.2000,KCZ/RJOK,AIR,TWR,AM,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+関西APP/RDR01,125.0000,KCZ/RJOK,AIR,APP/RDR,AM,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+関西APP/RDR02,124.8000,KCZ/RJOK,AIR,APP/RDR,AM,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+関西DEP01,124.8000,KCZ/RJOK,AIR,DEP,AM,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+関西DEP02,125.0000,KCZ/RJOK,AIR,DEP,AM,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+ATIS,126.4500,KCZ/RJOK,AIR,ATIS,AM,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+高知県警警察航空隊,135.9500,KCZ/RJOK,AIR,company,AM,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+高知県消防防災航空隊01,131.9750,KCZ/RJOK,AIR,company,AM,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+高知県消防防災航空隊02,398.9250,KCZ/RJOK,AIR,company,FM,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+ANA,130.6000,KCZ/RJOK,AIR,company,AM,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+SNJ,129.2750,KCZ/RJOK,AIR,company,AM,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+JAL/JAR/JTA/JAC/JJP,130.1000,KCZ/RJOK,AIR,company,AM,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+FDA,122.4250,KCZ/RJOK,AIR,company,AM,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+フジビジネスジェット,122.4250,KCZ/RJOK,AIR,company,AM,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+ANA,149.5300,KCZ/RJOK,AIR,grand,FM,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+FDA,3R,KCZ/RJOK,AIR,grand,,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+高知空港,3R,KCZ/RJOK,AIR,grand,,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+高知空港ビル,3R,KCZ/RJOK,AIR,grand,,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+入交トランスエナジー,3B,KCZ/RJOK,AIR,grand,,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+航空局/気象庁,153.4500,KCZ/RJOK,AIR,grand,FM,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+航空保安協会,3B,KCZ/RJOK,AIR,grand,,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+VOR,113.7MHz,KCZ/RJOK,AIR,ILS,,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+DME,1171MHz,KCZ/RJOK,AIR,ILS,,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+ILS-LOC 32,110.9MHz,KCZ/RJOK,AIR,ILS,,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+ILS-GP 32,330.8MHz,KCZ/RJOK,AIR,ILS,,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+ILS-DME 32,1007MHz,KCZ/RJOK,AIR,ILS,,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694
+MSAS,1575.42MHz,KCZ/RJOK,AIR,ILS,,高知,"KCZ,RJOH,高知,高知龍馬,中国・四国,四国",,35.5461,133.6694

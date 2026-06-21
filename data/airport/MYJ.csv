@@ -1,0 +1,25 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+松山TWR01,118.3500,MYJ/RJOM,AIR,TWR,AM,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+松山TWR02,126.2000,MYJ/RJOM,AIR,TWR,AM,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+岩国APP01,128.0000,MYJ/RJOM,AIR,APP,AM,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+岩国APP02,236.2000,MYJ/RJOM,AIR,APP,AM,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+ATIS,126.6500,MYJ/RJOM,AIR,ATIS,AM,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+愛媛県警察航空隊,135.9500,MYJ/RJOM,AIR,company,AM,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+愛媛県消防防災航空隊01,131.8750,MYJ/RJOM,AIR,company,AM,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+愛媛県消防防災航空隊02,152.5700,MYJ/RJOM,AIR,company,FM,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+愛媛県消防防災航空隊03,399.6500,MYJ/RJOM,AIR,company,FM,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+ANA/APJ/IBX,130.4500,MYJ/RJOM,AIR,company,AM,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+JAL/JAR/JTA/AHX/JJP,131.8500,MYJ/RJOM,AIR,company,AM,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+愛媛空港,130.1500,MYJ/RJOM,AIR,company,AM,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+ANA,149.5300,MYJ/RJOM,AIR,grand,FM,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+航空局/気象庁01,153.4500,MYJ/RJOM,AIR,grand,FM,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+航空局/気象庁02,157.6100,MYJ/RJOM,AIR,grand,FM,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+ALSOK,3A,MYJ/RJOM,AIR,grand,,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+藤村石油,3B,MYJ/RJOM,AIR,grand,,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+空港振興・環境整備支援機構,3B,MYJ/RJOM,AIR,grand,,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+VOR,110.65MHz,MYJ/RJOM,AIR,ILS,,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+DME,1130MHz,MYJ/RJOM,AIR,ILS,,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+ILS-LOC 14,109.3MHz,MYJ/RJOM,AIR,ILS,,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+ILS-GP 14,332.0MHz,MYJ/RJOM,AIR,ILS,,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+ILS-DME 14,991MHz,MYJ/RJOM,AIR,ILS,,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997
+MSAS,1575.42MHz,MYJ/RJOM,AIR,ILS,,松山,"MYJ,RJOM,松山,愛媛,中国・四国,四国",,33.8272,132.6997

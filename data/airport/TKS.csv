@@ -1,0 +1,45 @@
+﻿name,freq,airport,category,subcategory,mode,region,tags,memo,lat,lon
+徳島TWR01,236.8000,TKS/RJOS,AIR,TWR,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島TWR02,126.2000,TKS/RJOS,AIR,TWR,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島TWR03,233.8000,TKS/RJOS,AIR,TWR,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島TWR04,118.0000,TKS/RJOS,AIR,TWR,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島TWR05,123.1000,TKS/RJOS,AIR,TWR,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島GND01,233.8000,TKS/RJOS,AIR,GND,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島GND02,118.0000,TKS/RJOS,AIR,GND,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島DEP/RDR/APP01,284.6000,TKS/RJOS,AIR,DEP/RDR/APP,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島DEP/RDR/APP02,124.0000,TKS/RJOS,AIR,DEP/RDR/APP,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島DEP/RDR/APP03,120.1000,TKS/RJOS,AIR,DEP/RDR/APP,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島DEP/RDR/APP04,261.2000,TKS/RJOS,AIR,DEP/RDR/APP,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島DEP/RDR/APP05,362.3000,TKS/RJOS,AIR,DEP/RDR/APP,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島DEP/RDR/APP06,122.4500,TKS/RJOS,AIR,DEP/RDR/APP,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島DEP/RDR/APP07,126.2000,TKS/RJOS,AIR,DEP/RDR/APP,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島DEP/RDR/APP08,228.2000,TKS/RJOS,AIR,DEP/RDR/APP,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+RDR/GCA01,335.6000,TKS/RJOS,AIR,RDR/GCA,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+RDR/GCA02,270.8000,TKS/RJOS,AIR,RDR/GCA,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+RDR/GCA03,134.1000,TKS/RJOS,AIR,RDR/GCA,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+RDR/GCA04,125.3000,TKS/RJOS,AIR,RDR/GCA,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+RDR/GCA05,303.8000,TKS/RJOS,AIR,RDR/GCA,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+RDR/GCA06,258.6000,TKS/RJOS,AIR,RDR/GCA,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+RDR/GCA07,141.2000,TKS/RJOS,AIR,RDR/GCA,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+RDR/GCA08,139.5500,TKS/RJOS,AIR,RDR/GCA,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+AITS,246.8000,TKS/RJOS,AIR,ATIS,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+ANA,130.4500,TKS/RJOS,AIR,company,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+JAL/JAR/JTA/JAC,130.1750,TKS/RJOS,AIR,company,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+新明和工業01,122.4000,TKS/RJOS,AIR,company,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+新明和工業02,228.8000,TKS/RJOS,AIR,company,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+新明和工業03,3074KHz,TKS/RJOS,AIR,company,USB,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+新明和工業04,6690KHz,TKS/RJOS,AIR,company,USB,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+新明和工業05,15097KHz,TKS/RJOS,AIR,company,USB,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島県警察航空隊,135.9500,TKS/RJOS,AIR,company,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島県消防防災航空隊01,131.9250,TKS/RJOS,AIR,company,AM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島県消防防災航空隊02,149.3700,TKS/RJOS,AIR,company,FM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島県消防防災航空隊03,382.9250,TKS/RJOS,AIR,company,FM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+ANA,149.5300,TKS/RJOS,AIR,grand,FM,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+徳島空港ビル,3R,TKS/RJOS,AIR,grand,,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+航空保安協会,3B,TKS/RJOS,AIR,grand,,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+VOR,114.9MHz,TKS/RJOS,AIR,ILS,,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+TACAN,1183MHz,TKS/RJOS,AIR,ILS,,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+ILS-LOC 29,108.9MHz,TKS/RJOS,AIR,ILS,,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+IKS-GP 29,329.3MHz,TKS/RJOS,AIR,ILS,,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+ILS-DME 29,987MHz,TKS/RJOS,AIR,ILS,,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
+MSAS,1575.42MHz,TKS/RJOS,AIR,ILS,,徳島,"TKS,RJOS,徳島,徳島阿波おどり,中国・四国,四国",,34.1327,134.1063
